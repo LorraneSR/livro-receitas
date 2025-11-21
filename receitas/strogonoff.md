@@ -1,8 +1,8 @@
-\# Strogonoff de Frango 🐔
+# Strogonoff de Frango 🐔
 
 
 
-\### Ingredientes
+### Ingredientes
 
 * 1 colher (sobremesa) de azeite
 * 400g de Tiras de Frango
@@ -18,7 +18,7 @@
 
 
 
-\### Modo de preparo
+### Modo de preparo
 
 * 1: Em uma panela, aqueça o azeite e refogue a cebola e o alho, em seguida acrescente as tiras de frango;
 * 2: Tempere com o sal e com a páprica;
